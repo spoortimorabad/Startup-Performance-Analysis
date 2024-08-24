@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/4f56ed8a-1bbe-4c4c-9839-ca618e43a3f8)
+
 # Startup-Performance Analysis
 Startup performance analysis is the process of evaluating a startup's financial health, market positioning, operational efficiency, and growth potential. This analysis helps identify strengths, weaknesses, opportunities, and threats (SWOT), guiding strategic decision-making.
 
