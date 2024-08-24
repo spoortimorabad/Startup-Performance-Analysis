@@ -24,7 +24,7 @@ In conclusion, this project exemplifies a systematic approach to predicting star
 
 The dataset used in this project is sourced from Kaggle and consists of 300 rows and 11 columns. If additional data is required, a synthetic dataset can be generated. To do this, run the "generate_data.py" file to create another CSV file, which can then be merged with the existing dataset for further analysis.
 
-Dataset are is available in: ![CrunchBase]https://www.crunchbase.com/discover/organization.companies,![PitchBook]https://pitchbook.com/.
+Dataset are is available in: [CrunchBase](https://www.crunchbase.com/discover/organization.companies),[PitchBook](https://pitchbook.com/).
 
 ### Perfromance
 Random Forest Classifier has been worked well with the sourced data.
